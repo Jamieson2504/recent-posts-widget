@@ -1,6 +1,6 @@
 # My Posts Widget
 
-Contributors: Mike Jamieson
+Contributors: Mike Jamieson\
 Author link: https://mike-jamieson.co.uk/
 
 This plugin creates a new widget option for displaying recent posts. By default, this displays 3 posts with options to AJAX filter by category or tag.
